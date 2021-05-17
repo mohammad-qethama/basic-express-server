@@ -28,16 +28,15 @@ app.use(error500);
 
 function start(port){
 
-    app.listen(port,()=>{
-        console.log(`listening on ${port}`);
-        
+  app.listen(port,()=>{
+    console.log(`listening on ${port}`);
 
 
-    });
+
+  });
 }
 
 module.exports = {
-    app:app,
-    start:start
-  };
-  
+  app:app,
+  start:start
+};

@@ -4,10 +4,9 @@
 
 ### Author: Mohammad Quthama
 
-- [submission PR](https://github.com/tutuorial-401js/class-00)
-- [tests report](https://github.com/tutuorial-401js/class-00/actions)
-- [dev-deployment](https://mohammad-server-deploy-dev.herokuapp.com)
-- [master-deployment](https://mohammad-server-deploy-dev.herokuapp.com)
+- [submission PR](https://github.com/mohammad-qethama/basic-express-server/pull/2)
+- [tests report](https://github.com/mohammad-qethama/basic-express-server/actions)
+- [master-deployment](https://express-simple-ma.herokuapp.com/person?name=doe)
 
 ### Setup
 
@@ -43,3 +42,5 @@
 #### UML
 
 ![UML Diagram](uml.jpg)
+
+
